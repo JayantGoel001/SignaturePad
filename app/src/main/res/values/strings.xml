@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SignaturePad</string>
+    <string name="i_agree_terms_and_conditions">I agree terms and conditions.</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+</resources>
